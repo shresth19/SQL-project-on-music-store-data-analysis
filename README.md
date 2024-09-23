@@ -1,4 +1,4 @@
-# SQL Project
+# MUSIC STORE ANALYSIS
 
 ## Overview
 
